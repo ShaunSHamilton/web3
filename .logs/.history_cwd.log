@@ -34,3 +34,7 @@
 /workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 18 touch blockchain-helpers.js
 /workspace/web3-curriculum$ 1 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
 /workspace/web3-curriculum$ 2 git checkout -b learn/digital-ledgers
+/workspace/web3-curriculum$ 3 git commit . -m "feat: add blockchain-helpers.js"
+/workspace/web3-curriculum$ 4 git push
+/workspace/web3-curriculum$ 5 git push --set-upstream origin learn/digital-ledgers
+/workspace/web3-curriculum$ 6 git add .

@@ -1,1 +1,2 @@
-[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (learn/digital-ledgers) $ git o commit . -m ""f"e"a"t":" "a" [A[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (learn/digital-ledgers) $ git commit . -m "feat: ad""d" "b"l"o"c"k" "h"e"l"p"e"r"s"[1@c[1@h[1@a[1@i[1@n [1P[1@-helpers."j"s"
+[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (learn/digital-ledgers) $ git add .push --set-upstream orrigin learn/digital-ledgers[A[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (learn/digital-ledgers) $ git push[K
+[K[A[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (learn/digital-ledgers) $ git pushcommit . -m "feat: addd blockchain-helpers.js"

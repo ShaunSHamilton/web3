@@ -26,3 +26,7 @@ node init-blockchain.js
 clear
 touch blockchain-helpers.js
 git checkout -b learn/digital-ledgers
+git commit . -m "feat: add blockchain-helpers.js"
+git push
+git push --set-upstream origin learn/digital-ledgers
+git add .
