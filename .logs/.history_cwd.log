@@ -58,3 +58,13 @@
 /workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 29 node validate-chain.js
 /workspace/web3-curriculum$ 9 git add .
 /workspace/web3-curriculum$ 9 git add .
+/workspace/web3-curriculum$ 10 git commit . -m "feat: add validate-chain.js"
+/workspace/web3-curriculum$ 11 git push
+/workspace/web3-curriculum$ 11 git push
+/workspace/web3-curriculum$ 11 git push
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 30 node add-block.js Me You 10
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 30 node add-block.js Me You 10
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 31 node add-block.js Me You 20
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 32 node add-block.js Me You 30
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 33 node validate-chain.js
+/workspace/web3-curriculum$ 12 git add .

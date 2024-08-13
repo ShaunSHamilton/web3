@@ -44,3 +44,10 @@ git push
 touch validate-chain.js
 node validate-chain.js 
 git add .
+git commit . -m "feat: add validate-chain.js"
+git push
+node add-block.js Me You 10
+node add-block.js Me You 20
+node add-block.js Me You 30
+node validate-chain.js 
+git add .
