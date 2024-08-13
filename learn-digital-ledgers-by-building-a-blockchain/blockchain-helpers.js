@@ -23,3 +23,14 @@ export function isValidChain() {
     }
     return true
 }
+
+export function writeTransactions(transactions) {
+    const transactionsString = JSON.stringify(transactions, null, 2);
+    writeFileSync('./transactions.json', transactionsString);
+}
+
+export function getTransactions() {
+    const transactionsFile = readFileSync('./transactions.json');
+    const transactions = JSON.parse(transactionsFile);
+    return transactions;
+}

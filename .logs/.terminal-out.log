@@ -1,2 +1,3 @@
 [01;32mroot[00m [01;34m/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain[00m (learn/
-digital-ledgers) $ git commit .        add .
+digital-ledgers) $ 🟠 WARN:  2024-08-13 01:46:15 Selected project does not exist:  { event: 'select-project', data: {} }
+git add .

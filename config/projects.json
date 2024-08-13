@@ -6,10 +6,11 @@
     "isIntegrated": false,
     "description": "In this course, you will learn how to build a blockchain from scratch using JavaScript.",
     "isPublic": true,
-    "currentLesson": 70,
+    "currentLesson": 103,
     "runTestsOnWatch": true,
     "isResetEnabled": true,
-    "numberOfLessons": 103
+    "numberOfLessons": 103,
+    "completedDate": 1723527975196
   },
   {
     "id": 1,
