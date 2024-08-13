@@ -1,1 +1,14 @@
 
+cd earn-digital-ledgers-by-building-a-blockchain
+cd learn-digital-ledgers-by-building-a-blockchain
+ls
+cd ..
+cd learn-digital-ledgers-by-building-a-blockchain
+touch init-blockchain.js
+rm init-blockchain.js 
+cd learn-digital-ledgers-by-building-a-blockchain/
+touch init-blockchain.js
+cd learn-digital-ledgers-by-building-a-blockchain/
+cd ..
+git
+git remote -v

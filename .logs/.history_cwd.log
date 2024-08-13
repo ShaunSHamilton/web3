@@ -1,0 +1,20 @@
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$ 1 cd earn-digital-ledgers-by-building-a-blockchain
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 2 cd learn-digital-ledgers-by-building-a-blockchain
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 3 ls
+/workspace/web3-curriculum$ 4 cd ..
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 5 cd learn-digital-ledgers-by-building-a-blockchain
+/workspace/web3-curriculum$ 1 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum$ 1 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum$ 2 touch init-blockchain.js
+/workspace/web3-curriculum$ 3 rm init-blockchain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 4 cd learn-digital-ledgers-by-building-a-blockchain/
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 5 touch init-blockchain.js
+/workspace/web3-curriculum$ 1 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum$ 1 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum$ 1 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 2 cd learn-digital-ledgers-by-building-a-blockchain/
+/workspace/web3-curriculum$ 3 cd ..
+/workspace/web3-curriculum$ 4 git
+/workspace/web3-curriculum$ 5 git remote -v
