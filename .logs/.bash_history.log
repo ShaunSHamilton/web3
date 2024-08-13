@@ -12,3 +12,9 @@ cd learn-digital-ledgers-by-building-a-blockchain/
 cd ..
 git
 git remote -v
+git commit . -m "update"
+git push
+cd learn-digital-ledgers-by-building-a-blockchain/
+ls
+cd ..
+git add .

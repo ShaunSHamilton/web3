@@ -18,3 +18,10 @@
 /workspace/web3-curriculum$ 3 cd ..
 /workspace/web3-curriculum$ 4 git
 /workspace/web3-curriculum$ 5 git remote -v
+/workspace/web3-curriculum$ 6 git commit . -m "update"
+/workspace/web3-curriculum$ 7 git push
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 8 cd learn-digital-ledgers-by-building-a-blockchain/
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 9 ls
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 9 ls
+/workspace/web3-curriculum$ 10 cd ..
+/workspace/web3-curriculum$ 11 git add .
