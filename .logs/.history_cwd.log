@@ -25,3 +25,12 @@
 /workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 9 ls
 /workspace/web3-curriculum$ 10 cd ..
 /workspace/web3-curriculum$ 11 git add .
+/workspace/web3-curriculum$ 12 git commit . -m "feat: update"
+/workspace/web3-curriculum$ 13 git push
+/workspace/web3-curriculum$ 14 node init-blockchain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 15 cd learn-digital-ledgers-by-building-a-blockchain/
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 16 node init-blockchain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 17 clear
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 18 touch blockchain-helpers.js
+/workspace/web3-curriculum$ 1 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum$ 2 git checkout -b learn/digital-ledgers

@@ -18,3 +18,11 @@ cd learn-digital-ledgers-by-building-a-blockchain/
 ls
 cd ..
 git add .
+git commit . -m "feat: update"
+git push
+node init-blockchain.js
+cd learn-digital-ledgers-by-building-a-blockchain/
+node init-blockchain.js
+clear
+touch blockchain-helpers.js
+git checkout -b learn/digital-ledgers
