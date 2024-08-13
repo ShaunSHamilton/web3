@@ -38,3 +38,23 @@
 /workspace/web3-curriculum$ 4 git push
 /workspace/web3-curriculum$ 5 git push --set-upstream origin learn/digital-ledgers
 /workspace/web3-curriculum$ 6 git add .
+/workspace/web3-curriculum$ 7 git commit . -m "feat: add blockchain-helpers.js"
+/workspace/web3-curriculum$ 8 git push
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 19 touch add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 20 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 20 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 21 node init-blockchain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 22 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 23 git add .
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 24 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 24 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 24 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 25 git add .
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 26 git commit . -m "feat: add add-block.js"
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 27 git push
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 28 touch validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 29 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 29 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 29 node validate-chain.js
+/workspace/web3-curriculum$ 9 git add .
+/workspace/web3-curriculum$ 9 git add .

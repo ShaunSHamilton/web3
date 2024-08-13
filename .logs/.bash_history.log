@@ -30,3 +30,17 @@ git commit . -m "feat: add blockchain-helpers.js"
 git push
 git push --set-upstream origin learn/digital-ledgers
 git add .
+git commit . -m "feat: add blockchain-helpers.js"
+git push
+touch add-block.js
+node add-block.js 
+node init-blockchain.js 
+node add-block.js 
+git add .
+node add-block.js 
+git add .
+git commit . -m "feat: add add-block.js"
+git push
+touch validate-chain.js
+node validate-chain.js 
+git add .
